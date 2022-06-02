@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "39373528042",
+    "project_id": "tyba-technical-test",
+    "storage_bucket": "tyba-technical-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39373528042:android:f6c55dc6f690296d02b093",
+        "android_client_info": {
+          "package_name": "com.svelandiac.tyba_technical_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39373528042-lpn3lf5rkcsnk59st7369vgcitm15a9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIKySxz8xKJQrPsvFOihmIzaJocM7qFLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39373528042-lpn3lf5rkcsnk59st7369vgcitm15a9p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "39373528042-9uijvhqr37goo1odvis0ajmlcmjid8e7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.svelandiac.tybaTechnicalTest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
